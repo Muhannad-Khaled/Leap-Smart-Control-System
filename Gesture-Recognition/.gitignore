@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Environment
+venv/
+.env
+
+# Data
+data/
+processed_data/
+global_scaler.py
+
+# Frontend build + dependencies
+frontend/node_modules/
+
+# Embedded repo (if still exists)
+Hand-Gesture-Recognition-System/
+
+# Firebase credentials
+backend/firebase_key.json
+firebase_key.json

@@ -1,2 +1,0 @@
-# Gesture-Recognition-System
-
